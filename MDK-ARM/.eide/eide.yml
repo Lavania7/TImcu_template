@@ -1,0 +1,284 @@
+version: "4.1"
+name: empty_driverlib_src_LP_MSPM0G3507_nortos_keil
+type: ARM
+deviceName: null
+packDir: null
+srcDirs: []
+virtualFolder:
+  name: <virtual_root>
+  files: []
+  folders:
+    - name: Source
+      files:
+        - path: ../Drivers/ti/driverlib/dl_adc12.h
+        - path: ../Drivers/ti/driverlib/dl_aes.h
+        - path: ../Drivers/ti/driverlib/dl_aesadv.h
+        - path: ../Drivers/ti/driverlib/dl_common.h
+        - path: ../Drivers/ti/driverlib/dl_comp.h
+        - path: ../Drivers/ti/driverlib/dl_crc.h
+        - path: ../Drivers/ti/driverlib/dl_crcp.h
+        - path: ../Drivers/ti/driverlib/dl_dac12.h
+        - path: ../Drivers/ti/driverlib/dl_dma.h
+        - path: ../Drivers/ti/driverlib/dl_flashctl.h
+        - path: ../Drivers/ti/driverlib/dl_gpamp.h
+        - path: ../Drivers/ti/driverlib/dl_gpio.h
+        - path: ../Drivers/ti/driverlib/dl_i2c.h
+        - path: ../Drivers/ti/driverlib/dl_iwdt.h
+        - path: ../Drivers/ti/driverlib/dl_keystorectl.h
+        - path: ../Drivers/ti/driverlib/dl_lcd.h
+        - path: ../Drivers/ti/driverlib/dl_lfss.h
+        - path: ../Drivers/ti/driverlib/dl_mathacl.h
+        - path: ../Drivers/ti/driverlib/dl_mcan.h
+        - path: ../Drivers/ti/driverlib/dl_opa.h
+        - path: ../Drivers/ti/driverlib/dl_rtc.h
+        - path: ../Drivers/ti/driverlib/dl_rtc_a.h
+        - path: ../Drivers/ti/driverlib/dl_rtc_b.h
+        - path: ../Drivers/ti/driverlib/dl_rtc_common.h
+        - path: ../Drivers/ti/driverlib/dl_scratchpad.h
+        - path: ../Drivers/ti/driverlib/dl_spi.h
+        - path: ../Drivers/ti/driverlib/dl_tamperio.h
+        - path: ../Drivers/ti/driverlib/dl_timer.h
+        - path: ../Drivers/ti/driverlib/dl_timera.h
+        - path: ../Drivers/ti/driverlib/dl_timerg.h
+        - path: ../Drivers/ti/driverlib/dl_trng.h
+        - path: ../Drivers/ti/driverlib/dl_uart.h
+        - path: ../Drivers/ti/driverlib/dl_uart_extend.h
+        - path: ../Drivers/ti/driverlib/dl_uart_main.h
+        - path: ../Drivers/ti/driverlib/dl_vref.h
+        - path: ../Drivers/ti/driverlib/dl_wwdt.h
+        - path: ../Drivers/ti/driverlib/driverlib.h
+        - path: ../Drivers/ti/driverlib/m0p/dl_core.h
+        - path: ../Drivers/ti/driverlib/m0p/dl_factoryregion.h
+        - path: ../Drivers/ti/driverlib/m0p/dl_interrupt.h
+        - path: ../Drivers/ti/driverlib/m0p/dl_sysctl.h
+        - path: ../Drivers/ti/driverlib/m0p/dl_systick.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c1105_c1106.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.h
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.h
+        - path: ../Drivers/ti/driverlib/dl_adc12.c
+        - path: ../Drivers/ti/driverlib/dl_aes.c
+        - path: ../Drivers/ti/driverlib/dl_aesadv.c
+        - path: ../Drivers/ti/driverlib/dl_common.c
+        - path: ../Drivers/ti/driverlib/dl_comp.c
+        - path: ../Drivers/ti/driverlib/dl_crc.c
+        - path: ../Drivers/ti/driverlib/dl_crcp.c
+        - path: ../Drivers/ti/driverlib/dl_dac12.c
+        - path: ../Drivers/ti/driverlib/dl_dma.c
+        - path: ../Drivers/ti/driverlib/dl_flashctl.c
+        - path: ../Drivers/ti/driverlib/dl_gpamp.c
+        - path: ../Drivers/ti/driverlib/dl_gpio.c
+        - path: ../Drivers/ti/driverlib/dl_i2c.c
+        - path: ../Drivers/ti/driverlib/dl_iwdt.c
+        - path: ../Drivers/ti/driverlib/dl_keystorectl.c
+        - path: ../Drivers/ti/driverlib/dl_lcd.c
+        - path: ../Drivers/ti/driverlib/dl_lfss.c
+        - path: ../Drivers/ti/driverlib/dl_mathacl.c
+        - path: ../Drivers/ti/driverlib/dl_mcan.c
+        - path: ../Drivers/ti/driverlib/dl_opa.c
+        - path: ../Drivers/ti/driverlib/dl_rtc.c
+        - path: ../Drivers/ti/driverlib/dl_rtc_a.c
+        - path: ../Drivers/ti/driverlib/dl_rtc_b.c
+        - path: ../Drivers/ti/driverlib/dl_rtc_common.c
+        - path: ../Drivers/ti/driverlib/dl_scratchpad.c
+        - path: ../Drivers/ti/driverlib/dl_spi.c
+        - path: ../Drivers/ti/driverlib/dl_tamperio.c
+        - path: ../Drivers/ti/driverlib/dl_timer.c
+        - path: ../Drivers/ti/driverlib/dl_timera.c
+        - path: ../Drivers/ti/driverlib/dl_timerg.c
+        - path: ../Drivers/ti/driverlib/dl_trng.c
+        - path: ../Drivers/ti/driverlib/dl_uart.c
+        - path: ../Drivers/ti/driverlib/dl_vref.c
+        - path: ../Drivers/ti/driverlib/dl_wwdt.c
+        - path: ../Drivers/ti/driverlib/m0p/dl_factoryregion.c
+        - path: ../Drivers/ti/driverlib/m0p/dl_interrupt.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c1105_c1106.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0c110x.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0g1x0x_g3x0x.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0gx51x.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0h321x.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l111x.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l11xx_l13xx.c
+        - path: ../Drivers/ti/driverlib/m0p/sysctl/dl_sysctl_mspm0l122x_l222x.c
+        - path: ../empty.syscfg
+        - path: startup_mspm0g350x_uvision.s
+        - path: ../ti_msp_dl_config.h
+        - path: ../ti_msp_dl_config.c
+      folders: []
+    - name: Core
+      files:
+        - path: ../Core/Src/main.c
+        - path: ../Core/Src/gpio.c
+        - path: ../Core/Src/tim.c
+        - path: ../Core/Src/i2c.c
+      folders: []
+    - name: App
+      files:
+        - path: ../App/Src/app.c
+      folders: []
+    - name: Bsp
+      files:
+        - path: ../Bsp/Src/bsp_tim.c
+        - path: ../Bsp/Src/bsp_gpio.c
+        - path: ../Bsp/Src/bsp_i2c.c
+      folders: []
+    - name: Drv
+      files:
+        - path: ../Drv/oled/oled.c
+      folders: []
+    - name: Lib
+      files:
+        - path: ../Lib/font/font.c
+      folders: []
+dependenceList: []
+outDir: build
+miscInfo:
+  uid: 167318e16e5ecea284d181ce720cc114
+targets:
+  empty_driverlib_src_LP_MSPM0G3507_nortos_keil:
+    cppPreprocessAttrs:
+      defineList:
+        - __MSPM0G3507__
+      incList:
+        - ..
+        - ../Core/Inc
+        - ../Drivers
+        - ../Drivers/ti
+        - ../Drivers/third_party/CMSIS/Core/Include
+        - ../App/Inc
+        - ../Bsp/Inc
+        - ../Drv/oled
+        - ../Lib/font
+        - .cmsis/include
+        - RTE/_empty_driverlib_src_LP_MSPM0G3507_nortos_keil
+      libList: []
+    excludeList: []
+    settings: {}
+    toolchain: AC6
+    toolchainConfigMap:
+      AC6:
+        archExtensions: ""
+        cpuType: Cortex-M0+
+        floatingPointHardware: none
+        options:
+          version: 3
+          afterBuildTasks: []
+          asm-compiler:
+            $use: asm-auto
+            defines: []
+            misc-controls: ""
+          beforeBuildTasks:
+            - name: cmd.exe /C "$P../tools/keil/syscfg.bat '$P' empty.syscfg"
+              abortAfterFailed: true
+              command: cmd.exe /C "$P../tools/keil/syscfg.bat '$P' empty.syscfg"
+              disable: false
+              stopBuildAfterFailed: true
+          c/cpp-compiler:
+            language-c: c99
+            language-cpp: c++11
+            link-time-optimization: false
+            one-elf-section-per-function: true
+            optimization: level-2
+            short-enums#wchar: true
+            warnings: misra-compatible
+          global:
+            output-debug-info: enable
+            use-microLIB: false
+          linker:
+            $outputTaskExcludes:
+              - .bin
+            misc-controls: ../Drivers/ti/driverlib/lib/keil/m0p/mspm0g1x0x_g3x0x/driverlib.a
+            output-format: elf
+            ro-base: ""
+            rw-base: ""
+            xo-base: ""
+        scatterFilePath: mspm0g3507.sct
+        storageLayout:
+          RAM:
+            - id: 1
+              isChecked: false
+              mem:
+                size: "0x8000"
+                startAddr: "0x20200000"
+              noInit: false
+              tag: RAM
+            - id: 2
+              isChecked: false
+              mem:
+                size: "0x8000"
+                startAddr: "0x20300000"
+              noInit: false
+              tag: RAM
+            - id: 3
+              isChecked: false
+              mem:
+                size: "0x0"
+                startAddr: "0x0"
+              noInit: false
+              tag: RAM
+            - id: 1
+              isChecked: false
+              mem:
+                size: "0x8000"
+                startAddr: "0x20000000"
+              noInit: false
+              tag: IRAM
+            - id: 2
+              isChecked: false
+              mem:
+                size: "0x8000"
+                startAddr: "0x20100000"
+              noInit: false
+              tag: IRAM
+          ROM:
+            - id: 1
+              isChecked: false
+              isStartup: true
+              mem:
+                size: "0x0"
+                startAddr: "0x0"
+              tag: ROM
+            - id: 2
+              isChecked: false
+              isStartup: false
+              mem:
+                size: "0x0"
+                startAddr: "0x0"
+              tag: ROM
+            - id: 3
+              isChecked: false
+              isStartup: false
+              mem:
+                size: "0x0"
+                startAddr: "0x0"
+              tag: ROM
+            - id: 1
+              isChecked: false
+              isStartup: false
+              mem:
+                size: "0x20000"
+                startAddr: "0x0"
+              tag: IROM
+            - id: 2
+              isChecked: false
+              isStartup: false
+              mem:
+                size: "0x20000"
+                startAddr: "0x400000"
+              tag: IROM
+        useCustomScatterFile: true
+    uploadConfigMap:
+      JLink:
+        baseAddr: ""
+        bin: ""
+        cpuInfo:
+          cpuName: "null"
+          vendor: "null"
+        otherCmds: ""
+        proType: 1
+        speed: 8000
+    uploader: JLink
